@@ -1,0 +1,6 @@
+Entendendo
+Application = minha classe principal
+criamos um status controller pra fazer uma consultar de status p/ ver se a consulta está online
+UserController = feito pra fazer uma consulta e salvar no banco de dados
+UserModel = representação do meu user no banco de dados
+UserRepositorio = a classe que já vem com métodos pré prontas, com principais funcionalidades
